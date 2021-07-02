@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "author": {
+    "name": "Arisman Webs"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "aw_polymer_3": "^1.1.5"
+  },
+  "deprecated": false,
+  "description": "Mensaje de aceptación de política de cookies.",
+  "keywords": [
+    "Arisman Webs"
+  ],
+  "license": "ISC",
+  "name": "aw_cookies_policy"
+}
